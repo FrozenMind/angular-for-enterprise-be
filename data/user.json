@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Johnson",
+    "role": "CTO",
+    "entryDate": "2021-01-15T09:00:00.000Z",
+    "admin": true,
+    "username": "alex.johnson",
+    "password": "alex.johnson"
+  },
+  {
+    "id": 2,
+    "name": "Maria Smith",
+    "role": "Frontend Developer",
+    "entryDate": "2022-03-10T09:00:00.000Z",
+    "admin": false,
+    "username": "maria.smith",
+    "password": "maria.smith"
+  },
+  {
+    "id": 3,
+    "name": "John Lee",
+    "role": "Backend Developer",
+    "entryDate": "2021-07-22T09:00:00.000Z",
+    "admin": false,
+    "username": "john.lee",
+    "password": "john.lee"
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "role": "UI/UX Designer",
+    "entryDate": "2023-02-01T09:00:00.000Z",
+    "admin": false,
+    "username": "emily.davis",
+    "password": "emily.davis"
+  },
+  {
+    "id": 5,
+    "name": "Michael Brown",
+    "role": "DevOps Engineer",
+    "entryDate": "2020-11-30T09:00:00.000Z",
+    "admin": false,
+    "username": "michael.brown",
+    "password": "michael.brown"
+  },
+  {
+    "id": 6,
+    "name": "Sarah Wilson",
+    "role": "QA Engineer",
+    "entryDate": "2022-06-18T09:00:00.000Z",
+    "admin": false,
+    "username": "sarah.wilson",
+    "password": "sarah.wilson"
+  },
+  {
+    "id": 7,
+    "name": "David Martinez",
+    "role": "Product Manager",
+    "entryDate": "2019-09-12T09:00:00.000Z",
+    "admin": false,
+    "username": "david.martinez",
+    "password": "david.martinez"
+  },
+  {
+    "id": 8,
+    "name": "Jessica Taylor",
+    "role": "Scrum Master",
+    "entryDate": "2021-04-25T09:00:00.000Z",
+    "admin": false,
+    "username": "jessica.taylor",
+    "password": "jessica.taylor"
+  },
+  {
+    "id": 9,
+    "name": "Chris Anderson",
+    "role": "Mobile Developer",
+    "entryDate": "2022-01-14T09:00:00.000Z",
+    "admin": false,
+    "username": "chris.anderson",
+    "password": "chris.anderson"
+  },
+  {
+    "id": 10,
+    "name": "Ashley Thomas",
+    "role": "Full Stack Developer",
+    "entryDate": "2020-08-19T09:00:00.000Z",
+    "admin": false,
+    "username": "ashley.thomas",
+    "password": "ashley.thomas"
+  },
+  {
+    "id": 11,
+    "name": "Brian Moore",
+    "role": "Cloud Architect",
+    "entryDate": "2018-12-05T09:00:00.000Z",
+    "admin": false,
+    "username": "brian.moore",
+    "password": "brian.moore"
+  },
+  {
+    "id": 12,
+    "name": "Laura Jackson",
+    "role": "Business Analyst",
+    "entryDate": "2021-10-11T09:00:00.000Z",
+    "admin": false,
+    "username": "laura.jackson",
+    "password": "laura.jackson"
+  },
+  {
+    "id": 13,
+    "name": "Kevin White",
+    "role": "Security Engineer",
+    "entryDate": "2022-05-23T09:00:00.000Z",
+    "admin": false,
+    "username": "kevin.white",
+    "password": "kevin.white"
+  },
+  {
+    "id": 14,
+    "name": "Amanda Harris",
+    "role": "Technical Writer",
+    "entryDate": "2020-03-17T09:00:00.000Z",
+    "admin": false,
+    "username": "amanda.harris",
+    "password": "amanda.harris"
+  },
+  {
+    "id": 15,
+    "name": "Matthew Clark",
+    "role": "Data Scientist",
+    "entryDate": "2021-08-29T09:00:00.000Z",
+    "admin": false,
+    "username": "matthew.clark",
+    "password": "matthew.clark"
+  },
+  {
+    "id": 16,
+    "name": "Olivia Lewis",
+    "role": "Machine Learning Engineer",
+    "entryDate": "2022-12-03T09:00:00.000Z",
+    "admin": false,
+    "username": "olivia.lewis",
+    "password": "olivia.lewis"
+  },
+  {
+    "id": 17,
+    "name": "Daniel Walker",
+    "role": "Database Administrator",
+    "entryDate": "2019-05-21T09:00:00.000Z",
+    "admin": false,
+    "username": "daniel.walker",
+    "password": "daniel.walker"
+  },
+  {
+    "id": 18,
+    "name": "Sophia Hall",
+    "role": "Support Engineer",
+    "entryDate": "2023-01-09T09:00:00.000Z",
+    "admin": false,
+    "username": "sophia.hall",
+    "password": "sophia.hall"
+  },
+  {
+    "id": 19,
+    "name": "James Allen",
+    "role": "System Administrator",
+    "entryDate": "2020-07-13T09:00:00.000Z",
+    "admin": false,
+    "username": "james.allen",
+    "password": "james.allen"
+  },
+  {
+    "id": 20,
+    "name": "Grace Young",
+    "role": "Release Manager",
+    "entryDate": "2021-11-27T09:00:00.000Z",
+    "admin": false,
+    "username": "grace.young",
+    "password": "grace.young"
+  },
+  {
+    "id": 21,
+    "name": "Ethan King",
+    "role": "Network Engineer",
+    "entryDate": "2018-10-16T09:00:00.000Z",
+    "admin": false,
+    "username": "ethan.king",
+    "password": "ethan.king"
+  },
+  {
+    "id": 22,
+    "name": "Chloe Wright",
+    "role": "Frontend Developer",
+    "entryDate": "2022-04-08T09:00:00.000Z",
+    "admin": false,
+    "username": "chloe.wright",
+    "password": "chloe.wright"
+  },
+  {
+    "id": 23,
+    "name": "Benjamin Scott",
+    "role": "Backend Developer",
+    "entryDate": "2021-06-20T09:00:00.000Z",
+    "admin": false,
+    "username": "benjamin.scott",
+    "password": "benjamin.scott"
+  },
+  {
+    "id": 24,
+    "name": "Zoe Green",
+    "role": "UI/UX Designer",
+    "entryDate": "2023-03-15T09:00:00.000Z",
+    "admin": false,
+    "username": "zoe.green",
+    "password": "zoe.green"
+  },
+  {
+    "id": 25,
+    "name": "Samuel Adams",
+    "role": "DevOps Engineer",
+    "entryDate": "2020-09-28T09:00:00.000Z",
+    "admin": false,
+    "username": "samuel.adams",
+    "password": "samuel.adams"
+  },
+  {
+    "id": 26,
+    "name": "Ella Nelson",
+    "role": "QA Engineer",
+    "entryDate": "2022-07-19T09:00:00.000Z",
+    "admin": false,
+    "username": "ella.nelson",
+    "password": "ella.nelson"
+  },
+  {
+    "id": 27,
+    "name": "Jack Carter",
+    "role": "Product Manager",
+    "entryDate": "2019-10-23T09:00:00.000Z",
+    "admin": false,
+    "username": "jack.carter",
+    "password": "jack.carter"
+  },
+  {
+    "id": 28,
+    "name": "Lily Mitchell",
+    "role": "Scrum Master",
+    "entryDate": "2021-05-30T09:00:00.000Z",
+    "admin": false,
+    "username": "lily.mitchell",
+    "password": "lily.mitchell"
+  },
+  {
+    "id": 29,
+    "name": "Henry Perez",
+    "role": "Mobile Developer",
+    "entryDate": "2022-02-12T09:00:00.000Z",
+    "admin": false,
+    "username": "henry.perez",
+    "password": "henry.perez"
+  },
+  {
+    "id": 30,
+    "name": "Mia Roberts",
+    "role": "Full Stack Developer",
+    "entryDate": "2020-09-03T09:00:00.000Z",
+    "admin": false,
+    "username": "mia.roberts",
+    "password": "mia.roberts"
+  },
+  {
+    "id": 31,
+    "name": "Logan Turner",
+    "role": "Cloud Architect",
+    "entryDate": "2018-11-14T09:00:00.000Z",
+    "admin": false,
+    "username": "logan.turner",
+    "password": "logan.turner"
+  },
+  {
+    "id": 32,
+    "name": "Avery Phillips",
+    "role": "Business Analyst",
+    "entryDate": "2021-12-21T09:00:00.000Z",
+    "admin": false,
+    "username": "avery.phillips",
+    "password": "avery.phillips"
+  },
+  {
+    "id": 33,
+    "name": "Sebastian Campbell",
+    "role": "Security Engineer",
+    "entryDate": "2022-06-01T09:00:00.000Z",
+    "admin": false,
+    "username": "sebastian.campbell",
+    "password": "sebastian.campbell"
+  },
+  {
+    "id": 34,
+    "name": "Harper Parker",
+    "role": "Technical Writer",
+    "entryDate": "2020-04-11T09:00:00.000Z",
+    "admin": false,
+    "username": "harper.parker",
+    "password": "harper.parker"
+  },
+  {
+    "id": 35,
+    "name": "Elijah Evans",
+    "role": "Data Scientist",
+    "entryDate": "2021-09-17T09:00:00.000Z",
+    "admin": false,
+    "username": "elijah.evans",
+    "password": "elijah.evans"
+  },
+  {
+    "id": 36,
+    "name": "Scarlett Edwards",
+    "role": "Machine Learning Engineer",
+    "entryDate": "2022-11-07T09:00:00.000Z",
+    "admin": false,
+    "username": "scarlett.edwards",
+    "password": "scarlett.edwards"
+  },
+  {
+    "id": 37,
+    "name": "Mason Collins",
+    "role": "Database Administrator",
+    "entryDate": "2019-06-25T09:00:00.000Z",
+    "admin": false,
+    "username": "mason.collins",
+    "password": "mason.collins"
+  },
+  {
+    "id": 38,
+    "name": "Layla Stewart",
+    "role": "Support Engineer",
+    "entryDate": "2023-02-18T09:00:00.000Z",
+    "admin": false,
+    "username": "layla.stewart",
+    "password": "layla.stewart"
+  },
+  {
+    "id": 39,
+    "name": "Carter Morris",
+    "role": "System Administrator",
+    "entryDate": "2020-08-07T09:00:00.000Z",
+    "admin": false,
+    "username": "carter.morris",
+    "password": "carter.morris"
+  },
+  {
+    "id": 40,
+    "name": "Victoria Rogers",
+    "role": "Release Manager",
+    "entryDate": "2021-10-29T09:00:00.000Z",
+    "admin": false,
+    "username": "victoria.rogers",
+    "password": "victoria.rogers"
+  },
+  {
+    "id": 41,
+    "name": "Wyatt Reed",
+    "role": "Network Engineer",
+    "entryDate": "2018-09-19T09:00:00.000Z",
+    "admin": false,
+    "username": "wyatt.reed",
+    "password": "wyatt.reed"
+  },
+  {
+    "id": 42,
+    "name": "Penelope Cook",
+    "role": "Frontend Developer",
+    "entryDate": "2022-05-05T09:00:00.000Z",
+    "admin": false,
+    "username": "penelope.cook",
+    "password": "penelope.cook"
+  },
+  {
+    "id": 43,
+    "name": "Luke Morgan",
+    "role": "Backend Developer",
+    "entryDate": "2021-07-08T09:00:00.000Z",
+    "admin": false,
+    "username": "luke.morgan",
+    "password": "luke.morgan"
+  },
+  {
+    "id": 44,
+    "name": "Aria Bell",
+    "role": "UI/UX Designer",
+    "entryDate": "2023-04-12T09:00:00.000Z",
+    "admin": false,
+    "username": "aria.bell",
+    "password": "aria.bell"
+  },
+  {
+    "id": 45,
+    "name": "Julian Bailey",
+    "role": "DevOps Engineer",
+    "entryDate": "2020-10-21T09:00:00.000Z",
+    "admin": false,
+    "username": "julian.bailey",
+    "password": "julian.bailey"
+  },
+  {
+    "id": 46,
+    "name": "Nora Rivera",
+    "role": "QA Engineer",
+    "entryDate": "2022-08-13T09:00:00.000Z",
+    "admin": false,
+    "username": "nora.rivera",
+    "password": "nora.rivera"
+  },
+  {
+    "id": 47,
+    "name": "Leo Cooper",
+    "role": "Product Manager",
+    "entryDate": "2019-11-27T09:00:00.000Z",
+    "admin": false,
+    "username": "leo.cooper",
+    "password": "leo.cooper"
+  },
+  {
+    "id": 48,
+    "name": "Hazel Richardson",
+    "role": "Scrum Master",
+    "entryDate": "2021-06-16T09:00:00.000Z",
+    "admin": false,
+    "username": "hazel.richardson",
+    "password": "hazel.richardson"
+  }
+]

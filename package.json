@@ -1,0 +1,23 @@
+{
+  "name": "angular-for-enterprise-be",
+  "version": "1.0.0",
+  "description": "NodeJS Backend for the Angular for enterprise article series",
+  "homepage": "https://github.com/FrozenMind/angular-for-enterprise-be#readme",
+  "bugs": {
+    "url": "https://github.com/FrozenMind/angular-for-enterprise-be/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrozenMind/angular-for-enterprise-be.git"
+  },
+  "license": "MIT",
+  "author": "Valentin Rebscher",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
